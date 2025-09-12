@@ -6,6 +6,7 @@ ProteinPRO is a modern, full-featured e-commerce web application designed for di
 
 ProteinPRO aims to provide fitness enthusiasts and athletes with a curated selection of protein supplements and sports nutrition products. The application features a visually appealing, responsive design and intuitive navigation, ensuring a smooth experience across devices. Admin users have access to powerful tools for managing inventory and users, while regular users can easily explore products, manage their cart, and handle their profiles.
 
+
 ## Key Features
 
 - 🏠 Beautiful Home Page with featured products and brand highlights
